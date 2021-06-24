@@ -4,7 +4,7 @@ Requisitos:
 * NodeJS v12.0.0+
 
 ## Como executar
-Faça o clone/download deste repositório, execute `npm install` e `node index.js`. A API fica localizada em `http://localhost:3000`.
+Faça o clone/download deste repositório, execute `npm install` e `node index.js`. A API fica localizada em `http://localhost:3333`.
 
 ## Rotas
 Todas as requisições de POST para esta API devem conter o header `Content-Type: application/json`.
