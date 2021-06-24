@@ -1,7 +1,7 @@
 # VUTTR API
 Este repositório contém uma simples API para o desafio de front-end do BossaBox.
 Requisitos:
-* NodeJS v5.2.0+
+* NodeJS v12.0.0+
 
 ## Como executar
 Faça o clone/download deste repositório, execute `npm install` e `node index.js`. A API fica localizada em `http://localhost:3000`.
